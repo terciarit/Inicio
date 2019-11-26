@@ -2473,7 +2473,7 @@ h2 {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #ed4933;
+			background-color: #5b41ee;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2483,7 +2483,7 @@ h2 {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #ef5e4a !important;
+				background-color: #4aefe7 !important;
 			}
 
 			input[type="submit"].primary:active,
@@ -2663,7 +2663,7 @@ h2 {
 			-ms-order: 1;
 			order: 1;
 			border-radius: 0;
-			width: 34%;
+			width: 32%;
 		}
 
 			.spotlight .image img {
@@ -2678,7 +2678,7 @@ h2 {
 			-ms-order: 2;
 			order: 2;
 			max-width: 48em;
-			width: 60%;
+			width: 55%;
 		}
 
 		.spotlight:nth-child(2n) {
@@ -3337,7 +3337,7 @@ h2 {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #11665f;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
